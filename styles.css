@@ -3,6 +3,7 @@ body {
     background-image: url("img/Fw1.gif");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     opacity: 10;
 }
 
